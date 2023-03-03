@@ -1,7 +1,7 @@
 # ultron ctf -TryHackMe
 ## Author : RjRaju
 
-### Ultron CTF room [line](https://tryhackme.com/room/ultr0nctf)
+### Ultron CTF room [link](https://tryhackme.com/room/ultr0nctf)
 
 # Port Scan
 
